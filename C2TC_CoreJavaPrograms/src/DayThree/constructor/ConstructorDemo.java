@@ -38,7 +38,7 @@ public class ConstructorDemo {
 		System.out.print("Enter Customer City : ");
 		city=sc.nextLine();
 		
-		Customer c2=new Customer(name, id, city); //parameterized constructor invoked);
+		Constructor c2=new Constructor(name, id, city); //parameterized constructor invoked);
 		System.out.println(c2);
 		
 		sc.close();

@@ -7,13 +7,13 @@ public class Constructor {
 	 private String customerCity;
 	 
 	// Default Constructor
-	public Customer() {
+	public Constructor() {
 		System.out.println("Default Constructor");
 	}
 	
 	//Parameterized Constructor
 	//use of this keyword
-	public Customer(String customerName, int customerId, String customerCity) {
+	public Constructor(String customerName, int customerId, String customerCity) {
 		
 		this(); //calling default constructor
 		
