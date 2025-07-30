@@ -22,7 +22,7 @@ public class ConstructorDemo {
 		
 		System.out.println(" ");
 		
-		Customer c1=new Customer(); //default constructor invoked
+		Constructor c1=new Constructor(); //default constructor invoked
 		c1.setCustomerName(name);
 		c1.setCustomerId(id);
 		c1.setCustomerCity(city);
