@@ -1,4 +1,4 @@
-package DaySix.Final;
+package Daysix.Final;
 
 final class FinalClass {
 	void show() {

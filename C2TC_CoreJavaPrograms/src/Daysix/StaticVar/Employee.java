@@ -1,4 +1,4 @@
-package DaySix.StaticVar;
+package Daysix.StaticVar;
 
 public class Employee {
 

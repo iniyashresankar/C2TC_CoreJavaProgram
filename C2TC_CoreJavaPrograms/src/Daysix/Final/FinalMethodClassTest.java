@@ -1,4 +1,4 @@
-package DaySix.Final;
+package Daysix.Final;
 
 public class FinalMethodClassTest extends FinalMethodClass{
 

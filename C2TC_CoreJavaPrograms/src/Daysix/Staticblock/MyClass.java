@@ -1,4 +1,4 @@
-package DaySix.Staticblock;
+package Daysix.Staticblock;
 
 public class MyClass {
 
